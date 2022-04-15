@@ -1,27 +1,31 @@
 {
-    "articles" : [
-        {
-            "id" : 1,
-            "title" : "Exapmle Article",
-            "Content": "This is an example"
-        },
-        {
-            "id" : 2,
-            "title" : "Second Article",
-            "Content" : "This is also an example"
-        }
-    ],
-
-    "authors": [
-        {
-            "id": 1,
-            "Name" : "ShakeSpear",
-            "Book" : "Example Article"
-        },
-        {
-            "id" : 2,
-            "Name": "Kelvin Watts",
-            "Book" : "Second Article"
-        }
-    ]
+  "articles": [
+    {
+      "id": 1,
+      "title": "Exapmle Article",
+      "Content": "This is an example"
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "Content": "This is also an example"
+    },
+    {
+      "title": "the river and the Source",
+      "Content": "What it is",
+      "id": 3
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "Name": "ShakeSpear",
+      "Book": "Example Article"
+    },
+    {
+      "id": 2,
+      "Name": "Kelvin Watts",
+      "Book": "Second Article"
+    }
+  ]
 }
